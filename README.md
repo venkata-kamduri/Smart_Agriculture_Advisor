@@ -68,4 +68,5 @@ Venkata Ranga Ramanuja K. Kamduri
 🔗 LinkedIn: Venkata Kamduri
 
 License
-This project is licensed under the GNU General Public License (GPL).
+This project is not open source. All rights reserved.
+
